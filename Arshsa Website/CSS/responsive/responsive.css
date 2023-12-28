@@ -1,0 +1,116 @@
+@media only screen and (max-width: 1944px) {
+  /* .whole-banner {
+    padding: 0 0 2rem 4rem !important;
+  }
+  .banner-content {
+    margin-right: 6rem;
+    margin-left: 5rem;
+  }
+  .banner-content .button-area {
+    padding-left: 17rem !important;
+  } */
+}
+
+@media only screen and (max-width: 1024px) {
+  .banner-content {
+    padding-left: 2rem !important;
+  }
+  .banner-image img {
+    margin-left: 5rem;
+  }
+  .main-GetStarted {
+    padding: 0.75rem 1rem;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  body {
+    width: 100%;
+    /* overflow: hidden; */
+  }
+  .header-container {
+    width: 100%;
+  }
+  .nav-item {
+    margin: 0.23rem;
+    margin-left: 2rem !important;
+  }
+  .nav-item .main-GetStarted {
+    padding: 1rem 1rem;
+    width: 9.25rem;
+    margin-top: 0.25rem;
+    margin-left: -8px;
+  }
+  .banner-content .button-area {
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
+  h1 {
+    font-size: 1.5rem !important;
+  }
+  h4 {
+    font-size: 0.9rem !important;
+  }
+  .banner-image img {
+    width: 50vw;
+    height: 25vw;
+  }
+  .banner-content {
+    padding-left: 10rem !important;
+    padding-right: 2rem !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    text-align: center;
+  }
+
+  .banner-image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 10rem;
+  }
+  .partners {
+    width: 100%;
+    min-height: auto;
+  }
+  .skill-image {
+    padding-left: 7rem !important;
+  }
+
+  .about-section3-section p,
+  .about-section3-section em {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 776px) {
+  body {
+    width: 100%;
+    /* overflow: hidden; */
+  }
+  .header-container {
+    width: 100%;
+    height: auto;
+  }
+  .banner-image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 15rem;
+    min-height: 2rem;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  .banner-image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 15rem;
+    min-height: 0.5rem;
+  }
+  .skill-image {
+    padding-left: 2rem !important;
+  }
+}
